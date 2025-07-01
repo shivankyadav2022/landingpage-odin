@@ -120,3 +120,27 @@ h3{
     justify-content:stretch;
     width:130px;
 }
+
+.third-column{
+      background-color: #E7E5EB;
+      display:flex;
+      flex-direction:column;
+      
+}
+.third-column .quote{
+    font-size:36px;
+    text-align:left;
+    font-style:italic;
+    font-weight:300;
+    color: #1F2937;
+    padding: 5% 15% 0% 15%;
+  
+}
+
+.quote-author{
+    font-weight:900;
+    width:20%;
+    align-self:flex-end;
+    padding-right:10%;
+
+}
