@@ -144,3 +144,45 @@ h3{
     padding-right:10%;
 
 }
+.fourth-column{
+    height:35%;
+    display:flex;
+    justify-content: center;
+}
+.bluebox{
+    height: 45%;
+    width:60%;
+    background-color:#3882f6;
+    border-radius:10px;
+    display:flex;
+    margin :5%;
+    align-self: center;
+    justify-content:space-around;
+}
+
+.bluebox button{
+    border: 1px solid white;
+    border-radius:6px;
+    height:30%;
+    width:100px;
+    align-self:center; 
+    
+}
+
+.action-call{
+    color: #E5E7EB;
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+
+}
+
+h4{
+    margin:0;
+    padding:0;
+}
+
+.action-call p{
+    margin:0;
+    padding:0;
+}
