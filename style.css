@@ -3,7 +3,6 @@ font-family: 'Roboto';
 display:flex;
 flex-direction:column;
 }
-
 .header{
     background-color: #1F2937;
 }
@@ -33,6 +32,7 @@ h2{
     font-size:48px;
     font-weight:900;
     color:#F9FAF8;
+    margin:0;
 }
 
 .header p{
@@ -76,6 +76,7 @@ h2{
     align-items:stretch;
     
 }
+
 .header-left{
     display:flex;
     flex-direction:column;
@@ -107,6 +108,7 @@ h3{
     justify-content:center;
     gap:3px;
     margin-bottom:8%;
+    weight:300;
 }
 
 .second-column ul li{
@@ -185,4 +187,10 @@ h4{
 .action-call p{
     margin:0;
     padding:0;
+}
+
+.header h5{
+    color:#E5E7EB;
+    text-align: center;
+    font-weight:300;
 }

@@ -15,3 +15,6 @@ I decided to arrange the whole body using flex because this way it will be easie
 
 First I build the header section. It contains logo , links , website heading , signup button etc, I arranged various items according to the desired layout using multiple nested flexboxes and fonts , size, color etc as given in the assignment. 
 
+For the next rows also I tackled the styling one by one matching the elements with the desired output leaving me with a page
+that resembles a lot with the given desired output image. 
+
